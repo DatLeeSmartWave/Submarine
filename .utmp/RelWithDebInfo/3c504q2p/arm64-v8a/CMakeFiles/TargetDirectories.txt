@@ -1,0 +1,5 @@
+/Users/HaPham/Desktop/Submarine Ha GPGS/.utmp/RelWithDebInfo/3c504q2p/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/HaPham/Desktop/Submarine Ha GPGS/.utmp/RelWithDebInfo/3c504q2p/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/HaPham/Desktop/Submarine Ha GPGS/.utmp/RelWithDebInfo/3c504q2p/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/HaPham/Desktop/Submarine Ha GPGS/.utmp/RelWithDebInfo/3c504q2p/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/HaPham/Desktop/Submarine Ha GPGS/.utmp/RelWithDebInfo/3c504q2p/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
