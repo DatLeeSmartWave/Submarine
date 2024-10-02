@@ -1,0 +1,5 @@
+C:/New folder/New folder (2)/Submarine/.utmp/RelWithDebInfo/1b4l9c6s/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/New folder/New folder (2)/Submarine/.utmp/RelWithDebInfo/1b4l9c6s/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/New folder/New folder (2)/Submarine/.utmp/RelWithDebInfo/1b4l9c6s/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/New folder/New folder (2)/Submarine/.utmp/RelWithDebInfo/1b4l9c6s/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/New folder/New folder (2)/Submarine/.utmp/RelWithDebInfo/1b4l9c6s/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
